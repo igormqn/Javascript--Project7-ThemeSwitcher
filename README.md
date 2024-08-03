@@ -24,4 +24,4 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/theme-switching-app.git
+   git clone https://github.com/igormqn/Javascript--Project7-ThemeSwitcher.git 
